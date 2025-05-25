@@ -51,11 +51,27 @@ Foscam have apps that were built for these cameras on the Android and Apple apps
 
 
 <h2>Purchasing this camera on Amazon</h2>
-You can purchase these cameras on Amazon. Here is a link to it:
+You can purchase similar cameras on Amazon. Here are some recommended options:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00DY7FN80&asins=B00DY7FN80&linkId=2c18df3bde5a0ab1f82d3925d3f455a0&show_border=true&link_opens_in_new_window=true"></iframe>
+<div class="container">
+<div class="row">
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B00DY7FN80" 
+   title="Foscam F18919W" 
+   description="Pan/Tilt IP camera with night vision - original model reviewed"
+   image="/img/products/foscam-ptz-ip-camera.jpg" %}
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B071YVL4ZS&asins=B071YVL4ZS&linkId=4add3ebb57ebacde288da95917263fb8&show_border=true&link_opens_in_new_window=true"></iframe>
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B071YVL4ZS" 
+   title="Updated IP PTZ Camera" 
+   description="Modern equivalent with improved features and reliability"
+   image="/img/products/IP-PTZ-CAM-2.jpg" %}
+</div>
+</div>
+
+<p style="font-size: 12px; font-style: italic; margin-top: 20px;">
+<strong>Disclosure:</strong> As an Amazon Associate, I earn from qualifying purchases.
+</p>
 
 
 <h2>Other Features</h2>

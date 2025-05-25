@@ -83,19 +83,48 @@ If you have any questions about this systems, please feel free to <b><a href="/c
 
 <br/>
 
-Here are links to products on Amazon if you would like to build this system yourself:
+Here are recommended products on Amazon if you would like to build this system yourself:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B01FVC5MJU&asins=B01FVC5MJU&linkId=8469eb9ca3c72cc7b6857cf33ccd9095&show_border=true&link_opens_in_new_window=true"></iframe>
+<div class="container">
+<div class="row">
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B01FVC5MJU" 
+   title="IP Bullet Camera" 
+   description="High-definition bullet camera with infrared night vision"
+   image="/img/products/hikvision-ip-bullet-camera.png" %}
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00DCNRTAG&asins=B00DCNRTAG&linkId=bb1a77f5ed3b301010f4ca2b15850560&show_border=true&link_opens_in_new_window=true"></iframe>
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B00DCNRTAG" 
+   title="Directional WiFi Antenna" 
+   description="Long-range outdoor antenna for wireless connections"
+   image="/img/products/directional-antenna.jpg" %}
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B001PS4NRM&asins=B001PS4NRM&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe>
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B001PS4NRM" 
+   title="8-Port POE Switch" 
+   description="Network switch with Power over Ethernet for multiple cameras"
+   image="/img/products/8-port-poe-switch.png" %}
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00A4I71BO&asins=B00A4I71BO&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe>
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B00A4I71BO" 
+   title="POE Injector" 
+   description="Single port Power over Ethernet injector"
+   image="/img/products/poe-injector.png" %}
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00A51Q1O8&asins=B00A51Q1O8&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe>
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B00A51Q1O8" 
+   title="Outdoor Ethernet Cable" 
+   description="Weather-resistant networking cable for outdoor use"
+   image="/img/products/20-ethernet-cable.jpg" %}
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00CEB53MS&asins=B00CEB53MS&linkId=bae771b1698c1460f9f6ed143bc05de7&show_border=true&link_opens_in_new_window=true"></iframe>
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B00CEB53MS" 
+   title="TP-Link Router" 
+   description="Wireless router for network connectivity"
+   image="/img/products/tp-link-router.jpg" %}
+</div>
+</div>
+
+<p style="font-size: 12px; font-style: italic; margin-top: 20px;">
+<strong>Disclosure:</strong> As an Amazon Associate, I earn from qualifying purchases. This helps support the site at no additional cost to you.
+</p>

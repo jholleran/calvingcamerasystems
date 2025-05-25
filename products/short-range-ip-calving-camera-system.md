@@ -55,11 +55,30 @@ If you have any questions about this systems please feel free to <b><a href="/co
 
 <br/>
 
-Here are links to products on Amazon if you would like to build this system yourself:
+Here are recommended products on Amazon if you would like to build this system yourself:
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B071YVL4ZS&asins=B071YVL4ZS&linkId=4add3ebb57ebacde288da95917263fb8&show_border=true&link_opens_in_new_window=true"></iframe>
+<div class="container">
+<div class="row">
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B071YVL4ZS" 
+   title="IP PTZ Camera" 
+   description="Pan/Tilt security camera with night vision for outdoor monitoring"
+   image="/img/products/foscam-ptz-ip-camera.jpg" %}
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=ss_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00A5TE6DI&asins=B00A5TE6DI&linkId=&show_border=true&link_opens_in_new_window=true">
-</iframe>
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B00A5TE6DI" 
+   title="20m Ethernet Cable" 
+   description="Cat6 outdoor rated ethernet cable for camera connections"
+   image="/img/products/20-ethernet-cable.jpg" %}
 
-<iframe style="width:120px;height:240px;" marginwidth="0" marginheight="0" scrolling="no" frameborder="0" src="//ws-eu.amazon-adsystem.com/widgets/q?ServiceVersion=20070822&OneJS=1&Operation=GetAdHtml&MarketPlace=GB&source=ss&ref=as_ss_li_til&ad_type=product_link&tracking_id=calvingcamera-21&marketplace=amazon&region=GB&placement=B00CEB53MS&asins=B00CEB53MS&linkId=bae771b1698c1460f9f6ed143bc05de7&show_border=true&link_opens_in_new_window=true"></iframe>
+{% include amazon-product.html 
+   link="https://www.amazon.co.uk/dp/B00CEB53MS" 
+   title="TP-Link Router" 
+   description="Wireless router for network connectivity and remote access"
+   image="/img/products/tp-link-router.jpg" %}
+</div>
+</div>
+
+<p style="font-size: 12px; font-style: italic; margin-top: 20px;">
+<strong>Disclosure:</strong> As an Amazon Associate, I earn from qualifying purchases. This helps support the site at no additional cost to you.
+</p>
