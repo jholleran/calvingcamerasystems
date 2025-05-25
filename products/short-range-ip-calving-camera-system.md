@@ -72,7 +72,7 @@ Here are recommended products on Amazon if you would like to build this system y
    image="/img/products/20-ethernet-cable.jpg" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00CEB53MS" 
+   link="https://amzn.to/3F8LxzB" 
    title="TP-Link Router" 
    description="Wireless router for network connectivity and remote access"
    image="/img/products/tp-link-router.jpg" %}

@@ -94,31 +94,31 @@ Here are recommended products on Amazon if you would like to build this system y
 <div class="container">
 <div class="row">
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B071YVL4ZS" 
+   link="https://amzn.to/4jgl68P" 
    title="HD PTZ IP Camera" 
    description="High-definition Pan/Tilt/Zoom camera with 3x optical zoom"
    image="/img/products/IP-PTZ-CAM-1.jpg" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00DCNRTAG" 
+   link="https://amzn.to/4du5tt8" 
    title="Directional WiFi Antenna" 
    description="Long-range outdoor WiFi antenna for building-to-building connections"
    image="/img/products/directional-antenna.jpg" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00A4I71BO" 
+   link="https://amzn.to/4kg20RG" 
    title="POE Injector" 
    description="Power over Ethernet injector for powering network devices"
    image="/img/products/poe-injector.png" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00A51Q1O8" 
+   link="https://amzn.to/3STIJt6" 
    title="Outdoor Ethernet Cable" 
    description="Weather-resistant Cat6 cable for outdoor installations"
    image="/img/products/20-ethernet-cable.jpg" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00CEB53MS" 
+   link="https://amzn.to/3F8LxzB" 
    title="TP-Link Router" 
    description="Wireless router with high-power antennas for extended range"
    image="/img/products/tp-link-router.jpg" %}

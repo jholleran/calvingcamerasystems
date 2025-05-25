@@ -88,37 +88,37 @@ Here are recommended products on Amazon if you would like to build this system y
 <div class="container">
 <div class="row">
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B01FVC5MJU" 
+   link="https://amzn.to/4jh7muA" 
    title="IP Bullet Camera" 
    description="High-definition bullet camera with infrared night vision"
    image="/img/products/hikvision-ip-bullet-camera.png" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00DCNRTAG" 
+   link="https://amzn.to/4du5tt8" 
    title="Directional WiFi Antenna" 
    description="Long-range outdoor antenna for wireless connections"
    image="/img/products/directional-antenna.jpg" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B001PS4NRM" 
+   link="https://amzn.to/4ksKR6Q" 
    title="8-Port POE Switch" 
    description="Network switch with Power over Ethernet for multiple cameras"
    image="/img/products/8-port-poe-switch.png" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00A4I71BO" 
+   link="https://amzn.to/4kg20RG" 
    title="POE Injector" 
    description="Single port Power over Ethernet injector"
    image="/img/products/poe-injector.png" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00A51Q1O8" 
+   link="https://amzn.to/3STIJt6" 
    title="Outdoor Ethernet Cable" 
    description="Weather-resistant networking cable for outdoor use"
    image="/img/products/20-ethernet-cable.jpg" %}
 
 {% include amazon-product.html 
-   link="https://www.amazon.co.uk/dp/B00CEB53MS" 
+   link="https://amzn.to/3F8LxzB" 
    title="TP-Link Router" 
    description="Wireless router for network connectivity"
    image="/img/products/tp-link-router.jpg" %}
