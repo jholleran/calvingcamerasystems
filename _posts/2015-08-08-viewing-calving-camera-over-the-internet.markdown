@@ -6,21 +6,21 @@ date:   2015-08-08 18:00:00
 nav-color: gray
 bg-img: internet-connected-bg.png
 description: |
-  This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address from your ISP or with a DDNS. This article will describe in detail how to setup can configure both of these options.
+  This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address from your ISP or with a DDNS. This article will describe in detail how to setup and configure both of these options.
 
 categories: internet
 ---
 
-This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address, from your ISP, or with a DDNS. This article will describe in detail how to setup can configure both of these options. The system been described in this article is an IP camera system but a lot of the information is useful for connecting a CCTV camera system up to the Internet.
+This article describes how to connect and configure a calving camera system up to the Internet. There are two main ways to accomplish this; a static IP address, from your ISP, or with a DDNS. This article will describe in detail how to setup and configure both of these options. The system being described in this article is an IP camera system but a lot of the information is useful for connecting a CCTV camera system up to the Internet.
 
 <h2>Static IP Address</h2>
 
 The first option is to get a static IP address of your Internet Service Provider (ISP). Usually by default your ISP will assign a dynamic IP address to your Internet connection that can change from time to time. 
 When your modem is started up it requests an IP address from the ISP. The ISP will return an IP address which will be set on the modem. This address will be used to communicate with other computers on the Internet. After following restarts a different IP may be given from the ISP.
 
-To get a static IP address ring up you ISP and request one. There will be a charge for this which could be around 20 to 30 euros per year. Depending on your ISP it could be different. Once you get your static IP address you will need to set this on your modem. Check the user manual of your modem it see how to set this up.
+To get a static IP address ring up your ISP and request one. There will be a charge for this which could be around 20 to 30 euros per year. Depending on your ISP it could be different. Once you get your static IP address you will need to set this on your modem. Check the user manual of your modem to see how to set this up.
 
-Here how to do set this on an Eircom D1000 Modem:
+Here's how to set this on an Eircom D1000 Modem:
 
 - Go to Network Settings page
 - Click Broadband tab
@@ -98,7 +98,7 @@ If neither the modem nor IP camera has a DDNS client built in a DDNS client can 
 </figure>
 <br>
 
-With either of these two set up you will be able to connect and monitor you calving camera from anywhere in the world. You can use any laptop, PC or smart phone. All you need is an Internet connection. I hope you found this article useful. If you have any questions then feel free to [contact us](/contact). 
+With either of these two set up you will be able to connect and monitor your calving camera from anywhere in the world. You can use any laptop, PC or smart phone. All you need is an Internet connection. I hope you found this article useful. If you have any questions then feel free to [contact us](/contact). 
 
 <div>
 <br>

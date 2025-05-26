@@ -9,14 +9,14 @@ rating: 4.6
 reviewCount: 12
 text-color: gray
 nav-color: gray
-description: This long range IP Calving Camera System for wirelessly bridging long distances between farm buildings. It combines a high quailty IP PTZ Dome Calving Camera with two wireless Directional Antennas. 
+description: This long range IP Calving Camera System is for wirelessly bridging long distances between farm buildings. It combines a high quality IP PTZ Dome Calving Camera with two wireless Directional Antennas. 
 
 images:
-   - title: IP Camera with Pan\Tilt & Zoom functionality.
+   - title: IP Camera with Pan/Tilt & Zoom functionality.
      name: hd-mini-speed-done-x10.png
    - title: Long range Directional Antennas.
      name: two-directional-antennas.jpg
-   - title: Connect equipement with ethernet cables.
+   - title: Connect equipment with ethernet cables.
      name: 20-ethernet-cable.jpg
    - title: Router to connect system to PC or Laptop.
      name: tp-link-router.jpg
@@ -26,7 +26,7 @@ images:
 
 <span property="description">This Calving Camera System is ideal if you want to monitor your animals remotely from the comfort of your own home. It can also be used to monitor lambing, foaling, or general farm security.</span>
 
-The IP Camera produces high video combined with Pan/Tilt & Zoom (PTZ) functionality giving you clear 360 degrees coverage of your shed. It also contain 21 Infrared LEDs for night vision surveillance. The camera is suitable for outdoor use as it enclosed inside a hardened IP66 waterproof housing.
+The IP Camera produces high video combined with Pan/Tilt & Zoom (PTZ) functionality giving you clear 360 degrees coverage of your shed. It also contains 21 Infrared LEDs for night vision surveillance. The camera is suitable for outdoor use as it is enclosed inside a hardened IP66 waterproof housing.
 
 
 This system is ideal when there is a long distance between your House and your Shed. It makes a Wi-Fi wireless connection to the Shed with two outdoor IP Directional Antennas. The maximum range of this is system 5km with a clear line of sight.
@@ -40,7 +40,7 @@ Installing this system is a simple DIY job and should take no more than a couple
 
 
 
-The system compatible with any PC, Laptop, Tablet or Smartphone and can be easily <a href="{{site.baseurl}}/internet/2015/08/08/viewing-calving-camera-over-the-internet.html">connected to the Internet</a> which allows you to connect to the camera from anywhere on the world, with an Internet connection.
+The system is compatible with any PC, Laptop, Tablet or Smartphone and can be easily <a href="{{site.baseurl}}/internet/2015/08/08/viewing-calving-camera-over-the-internet.html">connected to the Internet</a> which allows you to connect to the camera from anywhere in the world, with an Internet connection.
 
 <h2>Features</h2>
 - High Quality 2 MegaPixel High Definition Video

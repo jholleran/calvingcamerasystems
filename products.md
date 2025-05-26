@@ -5,7 +5,7 @@ title: Products
 subTitle: Calving Camera Products
 bg-img: products_bg.png
 description: |
-  High quaility Calving Camera Systems available for purchase. Here you will find different types of systems to suit your needs, from IP PTZ Calvings to IP Bullet Cameras integrated with long range Directional Antennas.
+  High quality Calving Camera Systems available for purchase. Here you will find different types of systems to suit your needs, from IP PTZ Calvings to IP Bullet Cameras integrated with long range Directional Antennas.
 
 ---
 
@@ -32,7 +32,7 @@ description: |
             <!-- product information-->
             <div>
                <small class="muted">
-                  <div>{{page.catagory}}</div>
+                  <div>{{page.category}}</div>
                </small>
             </div>
             <!-- product description-->

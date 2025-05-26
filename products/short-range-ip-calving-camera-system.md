@@ -9,12 +9,12 @@ rating: 4.4
 reviewCount: 5
 text-color: gray
 nav-color: gray
-description: IP Done Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of your cattle shed with the single camera. This system is wired back to the house with an ethernet cable.
+description: IP Dome Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of your cattle shed with the single camera. This system is wired back to the house with an ethernet cable.
 
 images:
-   - title: IP Camera with Pan\Tilt & Zoom functionality.
+   - title: IP Camera with Pan/Tilt & Zoom functionality.
      name: foscam-ptz-ip-camera.jpg
-   - title: Connect equipement with ethernet cables.
+   - title: Connect equipment with ethernet cables.
      name: 20-ethernet-cable.jpg
    - title: Router to connect system to PC or Laptop.
      name: tp-link-router.jpg
@@ -25,7 +25,7 @@ IP Calving Camera System with Pan/Tilt & Zoom functionality. View large areas of
 If you want to get more information about how to set this type of system see this link: <a href="{{site.baseurl}}/ip/2015/04/24/ip-calving-camera-system.html">IP Calving Camera System</a>
 
 
-The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> functions so you can scan 360 degree around the shed. It also has high quality video, so enjoy clear uninterrupted camera footage from your laptop, computor, or smart phone.
+The IP Camera has <a href="{{site.baseurl}}/ptz/2015/04/26/ptz-calving-camera.html">PTZ</a> functions so you can scan 360 degree around the shed. It also has high quality video, so enjoy clear uninterrupted camera footage from your laptop, computer, or smart phone.
 
 
 <h2>Connection Diagram</h2>

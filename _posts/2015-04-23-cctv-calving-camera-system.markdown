@@ -12,21 +12,21 @@ description: |
 categories: cctv
 ---
 
-<h1>Analog CCTV Camera System<h1>
+<h1>Analog CCTV Camera System</h1>
 
-<h2>Equipement</h2>
+<h2>Equipment</h2>
 - Analog Camera
 - Video Splitter
 - Coaxial Cable
 
-A Video Splitter in used to connect up multiple Cameras so they can all be viewed simultaneously on the same channel. The cameras video will be split up on the same screen. The Video Splitter can also be used to switch between each camera, one at a time. It can also be set to automatically switch between each camera at a set interval. 
+A Video Splitter is used to connect up multiple Cameras so they can all be viewed simultaneously on the same channel. The cameras video will be split up on the same screen. The Video Splitter can also be used to switch between each camera, one at a time. It can also be set to automatically switch between each camera at a set interval. 
 
 If the distance between the Shed, where the camera will be fitted, and the house, where you want to view the video, is far away and is not possible to run a coaxial cable. In this case, you can [transmit the video signal by wireless](#TODO insert link).
 
-Instead of a Video Splitter a [DVR (Digital Video Recorder)](#insert dvr link) can be used to connect up the cameras. DVR are useful if you want to record the video from the camera and back play over the previous days.
+Instead of a Video Splitter a [DVR (Digital Video Recorder)](#insert dvr link) can be used to connect up the cameras. DVRs are useful if you want to record the video from the camera and play back over the previous days.
 
 <h2>Setup</h2>
-Connect the Cameras to the Video Slitter with a Coaxial Cable. Plug the Camera and Video Splitter power cables in. Connect the Video Splitter to your TV with another Coaxial Cable. Tune your TV to find the Video channel. When you find the channel the Video from the camera should be displayed.
+Connect the Cameras to the Video Splitter with a Coaxial Cable. Plug the Camera and Video Splitter power cables in. Connect the Video Splitter to your TV with another Coaxial Cable. Tune your TV to find the Video channel. When you find the channel the Video from the camera should be displayed.
 
 <img src="{{site.baseurl}}/img/cctv-camera-system.jpg" alt="cctv camera system with four cameras">
 
@@ -49,7 +49,7 @@ Analog video has been around for years and is a universal standard. This is by f
 Analog CCTV systems are very cheap. You can buy a complete video surveillance bundles that include multiple cameras (4 to 8), cables and DVR (with hard drive) for a couple of hundred euros. 
 
 There are significant limitations when it comes to scalability and flexibility. These systems are hard-wired and difficult to add more cameras. Each new camera needs a separate cable to the DVR. For example, if a DVR box has eight video input ports, you can connect up eight cameras. When you need to add a ninth camera your only option is to replace the DVR box with one with a higher number of input video ports or add a second independent DVR box. 
-Another downside to Analog CCTV is the cameras image quality is not as good as its being transmitted down a resolution limited pipe.
+Another downside to Analog CCTV is the camera's image quality is not as good as it's being transmitted down a resolution limited pipe.
 
 
 Before you buy any equipment make sure they are compatible with each other. The best way is to check the specification and the connector types so they can be plugged into together. Most of the Analog Cameras and Video Splitter use BNC input connectors. It's a good idea to check that out before you buy.

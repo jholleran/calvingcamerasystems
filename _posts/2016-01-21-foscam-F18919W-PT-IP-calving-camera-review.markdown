@@ -19,7 +19,7 @@ I've used a Foscam F18918W IP PT camera, in the past, as a calving camera and I 
   <figcaption style="text-align: center;">F18919W Camera Control Panel</figcaption>
 </figure>
 
-As with all IP based cameras they are compatible with other IP equipment such as Routers, Ethernet Switches and Wi-Fi Directional Antennas and can be connected together with a Cat5 or Cat6 Ethernet cable. The camera also has a Wi-Fi antenna so it can connect to a Wi-Fi Router without an Ethernet Cable. This can be handy to reduce the number of cables in the system. The antenna that comes with it works around 20-30 metres in range, so if your house is right beside the side calving shed then it should be able to connect your home router, otherwise you could [install Directional Antennas]({{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html) to create a long range wireless link from the house to the shed.
+As with all IP based cameras they are compatible with other IP equipment such as Routers, Ethernet Switches and Wi-Fi Directional Antennas and can be connected together with a Cat5 or Cat6 Ethernet cable. The camera also has a Wi-Fi antenna so it can connect to a Wi-Fi Router without an Ethernet Cable. This can be handy to reduce the number of cables in the system. The antenna that comes with it works around 20-30 metres in range, so if your house is right beside the calving shed then it should be able to connect your home router, otherwise you could [install Directional Antennas]({{site.baseurl}}/wireless/2015/05/26/ip-wireless-directional-antenns.html) to create a long range wireless link from the house to the shed.
 
 <figure>
 	<img src="{{site.baseurl}}/img/foscam-F18919W/cam-front.JPG" alt="F18919W Camera Control Panel" style="width: 32%;">
@@ -47,7 +47,7 @@ Foscam have apps that were built for these cameras on the Android and Apple apps
 
 [Foscam Viewer for IPhone](https://itunes.apple.com/us/app/foscam-viewer/id740126713?mt=8)
 
-[Foscam Viewer for Andriod](https://play.google.com/store/apps/details?id=com.ipc.newipc&hl=en)
+[Foscam Viewer for Android](https://play.google.com/store/apps/details?id=com.ipc.newipc&hl=en)
 
 
 <h2>Purchasing this camera on Amazon</h2>
@@ -84,7 +84,7 @@ The camera also has some nice features such as:
 - Pre-set Points
 - Strong hardened waterproof outer shell
 - DIY Installation
-- Supports most standard broswers
+- Supports most standard browsers
 
 <h2>Negatives</h2>
 The only small negative thing I have with this camera is that there is no zoom on it. So if you have a large shed or you want to cover a large area then this is probably not the camera for you. Other than that it’s a great camera for monitoring your animals.

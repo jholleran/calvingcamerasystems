@@ -16,7 +16,7 @@ images:
      name: hikvision-ip-bullet-camera.png
    - title: Directional Antennas for long range Wi-Fi connectivity
      name: two-directional-antennas.jpg
-   - title: Ethernet cabled to connect the equipement together
+   - title: Ethernet cables to connect the equipment together
      name: 20-ethernet-cable.jpg
    - title: POE network switch for powering the antenna and cameras
      name: 8-port-poe-switch.png
@@ -39,7 +39,7 @@ If you want to get more information about how to set this type of system see the
 
 
 <h2>Connection Diagram</h2>
-Bellow is a connection diagram how the system is setup and connected together.
+Below is a connection diagram showing how the system is setup and connected together.
 
 <figure>
   <img src="{{site.baseurl}}/img/connection-diagrams/bullet-ip-camera-antenna-connection-diagram.png" alt="IP Calving Camera System with Bullet Cameras">
@@ -49,15 +49,15 @@ Bellow is a connection diagram how the system is setup and connected together.
 
 Here we have two IP bullet cameras connected to, and powered by, a POE network switch using ethernet cables. The POE network switch also connects, and powers, a directional antenna. 
 
-The POE network switch simpifies the system by powering the cameras and the antenna through the ethernet cables. Without it, the other devices will need a separate power sources. If the system, you intend to build, will only ever have one camera then there is no need for the POE network switch. A single port POE Injector will be sufficent to power the camera.
+The POE network switch simplifies the system by powering the cameras and the antenna through the ethernet cables. Without it, the other devices will need a separate power sources. If the system, you intend to build, will only ever have one camera then there is no need for the POE network switch. A single port POE Injector will be sufficient to power the camera.
 
-The directional antenna will make a Wi-Fi connection to the other directional antenna. These antennas will need a clear line of sight to maximise there range and connection quality. The maximum range of this is system 5km.
+The directional antenna will make a Wi-Fi connection to the other directional antenna. These antennas will need a clear line of sight to maximise their range and connection quality. The maximum range of this is system 5km.
 
-The directional antenna, at the house or office, is powered by POE injector and is connected to a router with ethernet cables. From there, a Laptop or PC can connect to the router which will all it to connect to the IP cameras and view the video remotely.
+The directional antenna, at the house or office, is powered by POE injector and is connected to a router with ethernet cables. From there, a Laptop or PC can connect to the router which will allow it to connect to the IP cameras and view the video remotely.
 
 If the distance between the house and the shed is not that long, for example less than 100 meters, then the directional antenna can be left out of this system and connect the router to the POE network switch, on the shed side, with a direct ethernet cable.
 
-This system can be easily expanded. To add more cameras just plug them into the POE network switch. As long as there are spare ports on the POE network switch then more cameras can be added. So, if you might need more cameras in the future its a good idea to have plenty of spare POE ports on the network switch.
+This system can be easily expanded. To add more cameras just plug them into the POE network switch. As long as there are spare ports on the POE network switch then more cameras can be added. So, if you might need more cameras in the future it's a good idea to have plenty of spare POE ports on the network switch.
 
 <h2>Kit Includes</h2>
 
